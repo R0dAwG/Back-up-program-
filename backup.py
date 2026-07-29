@@ -1,3 +1,18 @@
+#*************************************************************
+#*
+#* AUTHOR: R.DOUGLAs
+#* DATE: 29/07/2026
+#* PURPOSE: SCRIPT FOR BACK UP PROGRAM FEAUTING AUTOMATIC BACK UP OF JOB's & MANUAL INPUT WITH SLI ARGUMENTS
+#* VERSION: 6.0
+#* FINAL COMPLETED SCRIPT
+#* PROGRAMMING LANGUAGE: PYTHON
+#* IDE/CODE EDITOR: VS CODE & AWS
+#* OPERATING SYSTEM: WINDOWS & UBUNTU LINUX
+#*
+#*************************************************************
+
+
+
 #!/usr/bin/env python3  #Shebang included for Unix based operating systems such as Linux Distros and Mac OS
 
 import os #This module will allow the program to interact with the operating system
