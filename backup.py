@@ -1,6 +1,6 @@
 #*************************************************************
 #*
-#* AUTHOR: R.DOUGLAs
+#* AUTHOR: R.DOUGLAS
 #* DATE: 29/07/2026
 #* PURPOSE: SCRIPT FOR BACK UP PROGRAM FEAUTING AUTOMATIC BACK UP OF JOB's & MANUAL INPUT WITH SLI ARGUMENTS
 #* VERSION: 6.0
