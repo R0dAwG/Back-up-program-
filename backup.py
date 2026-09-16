@@ -1,17 +1,20 @@
-""" AUTHOR: R.DOUGLAS
+
+
+
+#Shebang included for Unix based operating systems such as Linux Distros and Mac OS
+#!/usr/bin/env python3
+
+
+"""
+ AUTHOR: R.DOUGLAS
  DATE: 29/07/2026
  PURPOSE: SCRIPT FOR BACK UP PROGRAM FEAUTING AUTOMATIC BACK UP OF JOB's & MANUAL INPUT WITH SLI ARGUMENTS
  VERSION: 6.2
  FINAL COMPLETED SCRIPT
  PROGRAMMING LANGUAGE: PYTHON
  IDE/CODE EDITOR: VS CODE & AWS
- OPERATING SYSTEM: WINDOWS & UBUNTU LINUX """
- 
-
-
-
-#Shebang included for Unix based operating systems such as Linux Distros and Mac OS
-#!/usr/bin/env python3
+ OPERATING SYSTEM: WINDOWS & UBUNTU LINUX 
+                                      """
 
 #This module will allow the program to interact with the operating system
 import os 
